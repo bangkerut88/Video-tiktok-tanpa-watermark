@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bangkerut88.github.io/Video-tiktok-tanpa-watermark/sitemap.xml
